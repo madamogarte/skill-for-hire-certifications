@@ -1,15 +1,25 @@
-markdown
+
 # 📜 My Skills for Hire Certifications
 
-Welcome to my portfolio of completed courses through Skills for Hire Atlantic and Digital Nova Scotia. This repository showcases my commitment to continuous learning in data analytics, cybersecurity, and artificial intelligence.
+Welcome to my portfolio of completed courses through Skills for Hire Atlantic and Digital Nova Scotia. This repository showcases my commitment to continuous learning in data analytics, cybersecurity, and artificial intelligence—with top performance across all programs.
+
+## 🏆 Program Highlights & Recognition
+
+| Program | Score | Recognition |
+|---------|-------|-------------|
+| **Data Analytics** | **100/100** | 🏅 **Student of the Month** (August 2024) — [Featured by Digital Nova Scotia](https://digitalnovascotia.com/news/skills-for-hire-student-of-the-month-data-analytics-competences-a-embaucher-etudiant-du-mois-analyse-de-donnees-9/) |
+| **Cybersecurity** | **100/100** | Perfect score across all assessments |
+| **Data Analytics & AI (Growth Edition)** | **92.1%** | Advanced competency in applied AI and machine learning |
+
+---
 
 ## 🎓 Completed Certifications
 
-| Course Name | Provider | Completion Date | Credential Link |
-|-------------|---------|-----------------|-----------------|
-| Data Analytics | Digital Nova Scotia / Skills for Hire Atlantic | November 15, 2024 | [MyCreds Badge](https://learner.mycreds.ca/badges/public/assertion/pJSptjoWSTKTZgttEOwB7g) |
-| Cybersecurity | Digital Nova Scotia / Skills for Hire Atlantic | November 27, 2025 | [MyCreds Badge](https://learner.mycreds.ca/badges/public/assertion/TGNEJ9dORVGfC-_x9ZlFJA) · [Credsverse](https://credsverse.com/credentials/f966d73a-50cd-45df-90e1-902480a744f2) |
-| Data Analytics & AI (Growth Edition) | Digital Nova Scotia / Skills for Hire Atlantic | March 27, 2026 | [Credsverse](https://credsverse.com/credentials/2481abc0-8a8b-44f8-a75c-a9a34bce3e61) |
+| Course Name | Provider | Duration | Completion Date | Final Score | Credential Link |
+|-------------|---------|----------|-----------------|-------------|-----------------|
+| Data Analytics | Digital Nova Scotia / Skills for Hire Atlantic | 20 weeks | November 7, 2024 | **100/100** | [MyCreds Badge](https://learner.mycreds.ca/badges/public/assertion/pJSptjoWSTKTZgttEOwB7g) |
+| Cybersecurity | Digital Nova Scotia / Skills for Hire Atlantic | 16 weeks | November 27, 2025 | **100/100** | [MyCreds Badge](https://learner.mycreds.ca/badges/public/assertion/TGNEJ9dORVGfC-_x9ZlFJA) · [Credsverse](https://credsverse.com/credentials/f966d73a-50cd-45df-90e1-902480a744f2) |
+| Data Analytics & AI (Growth Edition) | Digital Nova Scotia / Skills for Hire Atlantic | 8 weeks | March 27, 2026 | **92.1%** | [Credsverse](https://credsverse.com/credentials/2481abc0-8a8b-44f8-a75c-a9a34bce3e61) |
 
 > *All programs were issued on behalf of Digital Nova Scotia & Skills for Hire Atlantic by St. Francis Xavier University.*
 
@@ -20,7 +30,8 @@ Welcome to my portfolio of completed courses through Skills for Hire Atlantic an
 ### 📊 Data Analytics
 - **Duration**: 20 weeks
 - **Format**: Online asynchronous with live sessions
-- **Completion**: November 15, 2024
+- **Completion**: November 7, 2024
+- **Final Score**: **100/100** 🏆
 
 **Skills & Topics Covered**:
 
@@ -36,9 +47,10 @@ Welcome to my portfolio of completed courses through Skills for Hire Atlantic an
 ---
 
 ### 🔐 Cybersecurity
-- **Duration**: 20 weeks
+- **Duration**: 16 weeks
 - **Format**: Online asynchronous with live sessions
 - **Completion**: November 27, 2025
+- **Final Score**: **100/100** 🏆
 
 **Week-by-Week Curriculum**:
 
@@ -70,6 +82,7 @@ Welcome to my portfolio of completed courses through Skills for Hire Atlantic an
 - **Level**: Intermediate
 - **Format**: Online blended learning with live sessions
 - **Completion**: March 27, 2026
+- **Final Score**: **92.1%**
 
 **Skills & Topics Covered**:
 
@@ -93,4 +106,19 @@ Welcome to my portfolio of completed courses through Skills for Hire Atlantic an
 
 ---
 
-## 📁 Repository Structure
+## 🌟 Awards & Recognition
+
+### 🏅 Student of the Month – Data Analytics Program
+**August 2024** | Skills for Hire Atlantic & Digital Nova Scotia
+
+Selected as Student of the Month for outstanding performance in the Data Analytics program. Recognized for:
+- Consistent progress and high scores on Pluralsight content
+- Active participation in Zoom live demo sessions
+- Engagement in professional development sessions
+- Positive contributions to the program Slack community
+
+📰 **Featured Article**: [Skills For Hire Student Of The Month: Data Analytics](https://digitalnovascotia.com/news/skills-for-hire-student-of-the-month-data-analytics-competences-a-embaucher-etudiant-du-mois-analyse-de-donnees-9/) (Digital Nova Scotia, September 5, 2024)
+
+> *"As I enjoy gaining new skills and knowledge, Skills for Hire is also giving me the confidence to be able to re-enter the industry where I began my career."*
+
+---
