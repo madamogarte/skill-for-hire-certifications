@@ -61,7 +61,7 @@ Welcome to my portfolio of completed courses through Skills for Hire Atlantic an
 | 6-7 | Cryptography: The Big Picture & Practical Encryption with Python |
 | 8-10 | Log File Analysis, Network Activity & Packet Analysis, Malware Detection with Python |
 | 12-16 | Certified in Cybersecurity (CC) Domains: Security Principles, Business Continuity & Disaster Recovery, Access Controls, Network Security, Security Operations |
-| 18-20 | Cloud Fundamentals, Core Services, Security & Architecture |
+| 17-20 | Cloud Fundamentals, Core Services, Security & Architecture |
 
 **Key Skills Acquired**:
 - Network configuration, monitoring, and security
