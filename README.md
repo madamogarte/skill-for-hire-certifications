@@ -1,4 +1,3 @@
-
 # 📜 My Skills for Hire Certifications
 
 Welcome to my portfolio of completed courses through Skills for Hire Atlantic and Digital Nova Scotia. This repository showcases my commitment to continuous learning in data analytics, cybersecurity, and artificial intelligence—with top performance across all programs.
@@ -19,7 +18,7 @@ Welcome to my portfolio of completed courses through Skills for Hire Atlantic an
 |-------------|---------|----------|-----------------|-------------|-----------------|
 | Data Analytics | Digital Nova Scotia / Skills for Hire Atlantic | 20 weeks | November 7, 2024 | **100/100** | [MyCreds Badge](https://learner.mycreds.ca/badges/public/assertion/pJSptjoWSTKTZgttEOwB7g) |
 | Cybersecurity | Digital Nova Scotia / Skills for Hire Atlantic | 16 weeks | November 27, 2025 | **100/100** | [MyCreds Badge](https://learner.mycreds.ca/badges/public/assertion/TGNEJ9dORVGfC-_x9ZlFJA) · [Credsverse](https://credsverse.com/credentials/f966d73a-50cd-45df-90e1-902480a744f2) |
-| Data Analytics & AI (Growth Edition) | Digital Nova Scotia / Skills for Hire Atlantic | 8 weeks | March 27, 2026 | **92.1%** | [Credsverse](https://credsverse.com/credentials/2481abc0-8a8b-44f8-a75c-a9a34bce3e61) |
+| Data Analytics & AI (Growth Edition) | Digital Nova Scotia / Skills for Hire Atlantic | 8 weeks | March 27, 2026 | **92.1%** | [MyCreds Badge](https://learner.mycreds.ca/badges/9h7mNYCXT8-mUSah_atvlg) · [Credsverse](https://credsverse.com/credentials/2481abc0-8a8b-44f8-a75c-a9a34bce3e61) |
 
 > *All programs were issued on behalf of Digital Nova Scotia & Skills for Hire Atlantic by St. Francis Xavier University.*
 
@@ -122,3 +121,5 @@ Selected as Student of the Month for outstanding performance in the Data Analyti
 > *"As I enjoy gaining new skills and knowledge, Skills for Hire is also giving me the confidence to be able to re-enter the industry where I began my career."*
 
 ---
+
+## 📁 Repository Structure
