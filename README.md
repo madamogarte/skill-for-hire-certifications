@@ -1,6 +1,6 @@
 # 📜 My Skills for Hire Certifications
 
-Welcome to my portfolio of completed courses through Skills for Hire Atlantic and Digital Nova Scotia. This repository showcases my commitment to continuous learning in data analytics, cybersecurity, and artificial intelligence—with top performance across all programs.
+Welcome to my portfolio of completed courses through Skills for Hire Atlantic and Digital Nova Scotia. This repository showcases my commitment to continuous learning in data analytics, cybersecurity, and artificial intelligence with top performance across all programs.
 
 ## 🏆 Program Highlights & Recognition
 
